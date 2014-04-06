@@ -1,0 +1,46 @@
+
+15:12:21 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php
+
+15:12:21 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php
+
+15:12:23 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+15:12:23 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+15:14:32 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+15:14:32 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+15:14:33 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+15:14:33 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+15:14:33 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+15:14:33 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+15:14:34 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+15:14:34 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+15:15:35 Call to a member function query() on a non-object in D:\Code\ZenTao\lib\dao\dao.class.php on line 457 when visiting /install.php?m=misc&f=ping&t=html
+
+15:17:24 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+15:17:24 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+15:17:25 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step2
+
+15:17:25 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\colorbox.html.php on line 3 when visiting /install.php?m=install&f=step2
+
+15:17:25 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step2
+
+15:17:25 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php
+
+15:17:25 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php
+
+15:17:32 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step3
+
+15:17:32 Undefined property: config::$debug in D:\Code\ZenTao\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step3
+
+15:17:44 Creating default object from empty value in D:\Code\ZenTao\module\install\model.php on line 436 when visiting /install.php?m=install&f=step4

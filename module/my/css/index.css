@@ -1,0 +1,16 @@
+.block {border:1px solid #cecece; height:225px;border-radius:5px;}
+.dynamic{border:1px solid #cecece;height: 402px;overflow: hidden;border-radius:5px;margin-bottom: 20px;}
+.dynamic td{padding: 5px 5px;}
+.linkbox1,.linkbox3{height:205px; overflow-y:auto}
+.linkbox2{height:400px; overflow-y:auto}
+#projectbox{margin-bottom: 23px;}
+
+#row1{margin-bottom:20px}
+#row2{margin-bottom:10px}
+#row1 .table-1, #row1 caption{border:none}
+#row2 .table-1, #row2 caption{border:none}
+
+caption{line-height: 20px;padding-bottom: 8px;}
+caption .f-left {padding-left:0px}
+
+.outer th i[class^="icon-"], .outer th i[class*=" icon-"]{font-size: 16px;}

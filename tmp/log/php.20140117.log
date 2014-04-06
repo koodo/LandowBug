@@ -1,0 +1,1782 @@
+
+09:50:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+09:50:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+09:50:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:50:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse
+
+09:50:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+09:50:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+09:50:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse-1
+
+09:50:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:50:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse-1
+
+09:50:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+09:50:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+09:50:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my-bug
+
+09:50:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-view-1
+
+09:50:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:50:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+09:51:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:52:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-create-1-moduleID=0
+
+09:52:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:52:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:53:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:53:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:53:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:53:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:53:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:54:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:54:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:55:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-view-1
+
+09:55:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:55:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting company-browse
+
+09:55:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+09:55:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+09:55:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-build-1
+
+09:55:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:55:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-view-1
+
+09:55:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:55:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse-1-unclosed-0
+
+09:55:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse-1-longLifeBugs-0
+
+09:55:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse-1-unResolved-0
+
+09:55:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse-1-assignToMe-0
+
+09:55:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse-1-all-0-id_desc-0-200
+
+09:55:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:55:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:55:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting tree-browse-1-bug
+
+09:55:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+09:56:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse
+
+09:56:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting company-browse
+
+09:56:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+09:57:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+09:57:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+09:57:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+09:58:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+09:58:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse
+
+09:58:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse-product-0-0-0-bySearch-myQueryID
+
+09:59:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse-product-0-0-0-bySearch-myQueryID
+
+09:59:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse-product-0-0-0-bySearch-1
+
+09:59:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse-product-0-0-0-bySearch-1
+
+10:02:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting doc-browse-product-0-0-0-bySearch-1
+
+10:05:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+10:05:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+10:05:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+10:05:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting company-browse
+
+10:05:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:06:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+10:06:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:16:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+10:16:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting bug-browse
+
+10:16:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:17:36 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.lite.html.php on line 25 when visiting /install.php
+
+10:17:36 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\footer.lite.html.php on line 3 when visiting /install.php
+
+10:17:38 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step1
+
+10:17:38 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step1
+
+10:17:39 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step2
+
+10:17:39 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\colorbox.html.php on line 3 when visiting /install.php?m=install&f=step2
+
+10:17:39 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step2
+
+10:17:40 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.lite.html.php on line 25 when visiting /install.php
+
+10:17:40 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\footer.lite.html.php on line 3 when visiting /install.php
+
+10:18:05 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.lite.html.php on line 25 when visiting /install.php?m=install&f=step3
+
+10:18:05 Undefined property: config::$debug in D:\kuaipan_koodo\LandowBug\app\module\common\view\footer.lite.html.php on line 3 when visiting /install.php?m=install&f=step3
+
+10:18:16 Creating default object from empty value in D:\kuaipan_koodo\LandowBug\app\module\install\model.php on line 436 when visiting /install.php?m=install&f=step4
+
+10:18:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:18:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:18:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting product-browse
+
+10:18:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting project-task
+
+10:18:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:18:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting my
+
+10:18:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:18:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=product&f=browse
+
+10:18:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=project&f=task
+
+10:18:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=product&f=browse
+
+10:18:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=product&f=create
+
+10:19:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=product&f=browse&productID=3
+
+10:19:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=browse
+
+10:19:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=create&productID=3&extra=moduleID=0
+
+10:19:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/theme/default/images/kindeditor/save.gif?m=my&f=index
+
+10:20:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=browse
+
+10:20:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=create&productID=3&extra=moduleID=0
+
+10:20:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/theme/default/images/kindeditor/save.gif?m=my&f=index
+
+10:21:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=browse
+
+10:21:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:21:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:21:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=view&id=6
+
+10:21:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=browse
+
+10:23:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=doc&f=browse
+
+10:23:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:23:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:24:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:25:56 Trying to get property of non-object in D:\kuaipan_koodo\LandowBug\app\module\user\model.php on line 650 when visiting /index.php/product/?m=user&f=login
+
+10:25:56 Trying to get property of non-object in D:\kuaipan_koodo\LandowBug\app\module\user\model.php on line 624 when visiting /index.php/product/?m=user&f=login
+
+10:25:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=my&f=index
+
+10:26:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/product/?m=bug&f=view&id=5
+
+10:26:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:26:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&id=6
+
+10:26:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&id=6
+
+10:26:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:26:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:26:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:26:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:27:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:27:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:30:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:30:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=title_asc&recTotal=2&recPerPage=20
+
+10:30:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=pri_asc&recTotal=2&recPerPage=20
+
+10:30:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=pri_desc&recTotal=2&recPerPage=20
+
+10:30:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=severity_asc&recTotal=2&recPerPage=20
+
+10:31:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=openedBy_asc&recTotal=2&recPerPage=20
+
+10:31:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=assignedTo_asc&recTotal=2&recPerPage=20
+
+10:37:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:37:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:37:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:37:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse&libID=product
+
+10:37:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse&libID=product
+
+10:37:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:37:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:41:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:42:22 Undefined variable: selectHtml in D:\kuaipan_koodo\LandowBug\app\module\doc\model.php on line 31 when visiting /index.php/my/?m=doc&f=browse
+
+10:42:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:42:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:42:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:42:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:43:14 Undefined index: %s in D:\kuaipan_koodo\LandowBug\app\module\doc\control.php on line 67 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 Undefined index: %s in D:\kuaipan_koodo\LandowBug\app\module\doc\control.php on line 68 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 Undefined index: %s in D:\kuaipan_koodo\LandowBug\app\module\doc\control.php on line 144 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 sprintf() [function.sprintf]: Too few arguments in D:\kuaipan_koodo\LandowBug\app\module\common\control.php on line 188 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 sprintf() [function.sprintf]: Too few arguments in D:\kuaipan_koodo\LandowBug\app\module\common\control.php on line 188 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 sprintf() [function.sprintf]: Too few arguments in D:\kuaipan_koodo\LandowBug\app\module\common\control.php on line 188 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 sprintf() [function.sprintf]: Too few arguments in D:\kuaipan_koodo\LandowBug\app\module\common\control.php on line 188 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:14 sprintf() [function.sprintf]: Too few arguments in D:\kuaipan_koodo\LandowBug\app\module\common\control.php on line 188 when visiting /index.php/my/?m=doc&f=browse&libID=%s
+
+10:43:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:43:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:43:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:43:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:43:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:43:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:44:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:44:28 Undefined variable: selectHtml in D:\kuaipan_koodo\LandowBug\app\module\doc\model.php on line 31 when visiting /index.php/my/?m=doc&f=browse
+
+10:44:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:45:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:45:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:45:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:45:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:45:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+10:45:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:45:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:45:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:46:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:46:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:46:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:46:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:46:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:46:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:46:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:46:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:46:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:50:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:50:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&id=5
+
+10:50:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:50:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:50:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:50:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:50:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:50:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:51:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:51:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:52:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:52:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:52:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:52:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:52:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:52:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:53:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:54:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:55:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:55:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:55:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:55:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:55:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:55:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:55:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:55:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:59:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+10:59:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+10:59:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:59:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+10:59:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+10:59:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:59:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:59:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+10:59:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:59:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+10:59:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3
+
+10:59:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+10:59:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:00:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=project&status=all&productID=3
+
+11:00:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=productplan&f=browse&productID=3
+
+11:00:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=3
+
+11:00:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=dynamic&productID=3
+
+11:00:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=view&productID=3
+
+11:00:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=view&productID=2
+
+11:00:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=view&productID=1
+
+11:00:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:00:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:00:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:00:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:00:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:00:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=create&productID=1&extra=moduleID=0
+
+11:00:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/theme/default/images/kindeditor/save.gif?m=my&f=index
+
+11:00:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:00:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=2
+
+11:00:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:00:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=1
+
+11:00:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:00:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=task&f=view&task=6
+
+11:00:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:00:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=create&productID=1&extra=moduleID=0
+
+11:00:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/theme/default/images/kindeditor/save.gif?m=my&f=index
+
+11:00:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:00:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=3
+
+11:01:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:01:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:01:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&rootID=3&view=story
+
+11:01:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:01:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=3
+
+11:01:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&rootID=3&view=story
+
+11:01:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&root=3&viewType=story
+
+11:01:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&root=3&viewType=story
+
+11:01:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&root=3&viewType=story
+
+11:01:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:01:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&rootID=3&view=story
+
+11:01:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=tree&f=browse&rootID=3&view=story
+
+11:01:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:02:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:02:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:02:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=create&productID=3&extra=moduleID=0
+
+11:02:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/theme/default/images/kindeditor/save.gif?m=my&f=index
+
+11:02:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=7
+
+11:02:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:02:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:02:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:02:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:03:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=todo&account=testManager
+
+11:03:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=story&account=testManager
+
+11:03:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=story&account=testManager
+
+11:03:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:03:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:10:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:11:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:11:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:11:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:12:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:12:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:12:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:12:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:12:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:12:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+11:12:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=view
+
+11:12:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=group&f=browse
+
+11:12:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=view
+
+11:12:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=view
+
+11:12:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:13:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:13:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:13:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:13:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:13:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:13:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:13:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:13:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:13:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:13:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:14:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:14:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:14:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:14:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:14:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:14:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=story&projectID=1
+
+11:14:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=build&projectID=1
+
+11:14:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=team&projectID=1
+
+11:14:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=dynamic&projectID=1
+
+11:14:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=view&projectID=1
+
+11:14:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:14:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:14:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:14:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:14:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:14:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:15:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:15:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:15:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:15:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:16:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:16:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:16:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+11:16:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=group&f=browse
+
+11:16:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+11:16:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=group&f=browse
+
+11:16:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+11:16:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=group&f=browse
+
+11:16:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:16:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:16:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:16:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:16:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:16:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:16:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:16:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:16:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:16:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:16:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:16:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:16:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+11:16:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:16:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=bug
+
+11:16:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:16:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=bug
+
+11:16:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:17:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:17:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:18:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:18:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:18:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:18:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:26:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:26:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:26:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:26:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:26:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:26:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:26:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=title_asc&recTotal=3&recPerPage=20
+
+11:26:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=title_desc&recTotal=3&recPerPage=20
+
+11:26:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3&browseType=all&param=0&orderBy=status_asc&recTotal=3&recPerPage=20
+
+11:26:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:31:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:31:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+11:31:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:31:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=report&productID=3&browseType=all&moduleID=0
+
+11:31:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=report&productID=3&browseType=all&moduleID=0
+
+11:32:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=report&productID=3&browseType=all&moduleID=0
+
+11:32:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=report&productID=3&browseType=all&moduleID=0
+
+11:32:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:32:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:32:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+11:32:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:32:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=5
+
+11:32:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:33:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=report&productID=3&browseType=all&moduleID=0
+
+11:33:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=report&productID=3&browseType=all&moduleID=0
+
+11:33:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+11:33:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=todo&account=productManager
+
+11:33:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:33:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=task&f=view&id=2
+
+11:33:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:34:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&id=5
+
+11:34:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+11:34:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&id=5
+
+11:34:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+11:34:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+11:34:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=create&libID=product&moduleID=0&productID=0&projectID=0&from=doc
+
+11:34:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=create&libID=product&moduleID=0&productID=0&projectID=0&from=doc
+
+11:35:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:35:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:35:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:35:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:35:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:35:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:35:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:35:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:35:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+11:35:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:35:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:35:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=burn&project=1
+
+11:35:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=burn&project=1
+
+11:35:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task&project=1&type=assignedtome
+
+11:35:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:35:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:35:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:35:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:35:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:35:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:35:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=create&productID=3&moduleID=0
+
+11:36:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:36:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:36:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=edit&story=8
+
+11:36:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:37:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:37:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:37:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:37:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:37:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:37:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:37:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:37:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:37:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:37:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:37:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:37:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:37:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:37:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:37:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&bugID=5
+
+11:37:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+11:37:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+11:37:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:37:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=task&f=view&task=9
+
+11:37:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:37:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:37:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+11:37:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:37:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:37:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:37:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:37:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:38:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:38:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:38:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:38:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:38:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:38:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:38:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:38:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:38:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:38:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:38:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:38:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=change&storyID=8
+
+11:38:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:38:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:38:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+11:38:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+11:39:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+11:39:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:39:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:40:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+11:40:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+11:40:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:41:14 Undefined variable: kev in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+11:41:14 Undefined variable: kev in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+11:41:14 Undefined variable: kev in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+11:41:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:41:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+11:41:31 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+11:41:31 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+11:41:31 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+11:41:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+12:02:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+12:02:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+12:02:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+12:02:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=user&f=todo&account=productManager
+
+12:02:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+12:02:17 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+12:02:17 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+12:02:17 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+12:02:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+12:02:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+12:07:16 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+12:07:16 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+12:07:16 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+12:07:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+12:07:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&bugID=7
+
+12:07:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+12:07:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=create&t=html&rootID=project
+
+12:07:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=create&t=html&rootID=product
+
+12:08:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse&libID=product&moduleID=0&productID=3&projectID=0
+
+12:08:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+12:08:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=view&docID=1
+
+12:08:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+12:08:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+12:08:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:08:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+12:09:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:10:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:10:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:11:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:12:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:12:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=2
+
+12:12:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:13:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:13:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:13:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse&productID=2
+
+12:14:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=index&locate=no&productID=2
+
+12:14:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+12:14:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+12:14:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+12:14:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+12:14:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+12:15:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+12:15:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+12:15:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=1
+
+12:15:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=1
+
+12:15:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=1
+
+12:15:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=1
+
+12:15:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=1
+
+12:15:07 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=3
+
+12:15:07 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=3
+
+12:15:07 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php/my/?m=bug&f=browse&productID=3
+
+12:15:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse&productID=3
+
+12:15:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=5
+
+12:15:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+14:37:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+14:37:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+14:38:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:38:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+14:38:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:38:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:38:05 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:38:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:39:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+14:39:22 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:39:22 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:39:22 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:39:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:39:24 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:24 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:24 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:24 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse&productID=2
+
+14:39:28 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:28 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:28 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:28 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:39:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse&productID=1
+
+14:41:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+14:41:13 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:41:13 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:41:13 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:41:13 Object of class stdClass could not be converted to string in D:\kuaipan_koodo\LandowBug\app\module\bug\control.php on line 136 when visiting /index.php?m=bug&f=browse
+
+14:41:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:44:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+14:44:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:44:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&bugID=4
+
+14:44:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task&projectID=1
+
+14:44:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+14:44:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:49:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:49:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:50:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:50:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+14:50:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:51:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:51:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:51:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:52:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:52:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:52:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:53:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:55:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:55:34 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:56:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+14:57:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=view&docID=1
+
+14:57:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+14:57:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+14:57:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=view&docID=1
+
+14:57:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=tree&f=browse&libID=product&viewType=doc
+
+14:58:25 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+14:58:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+14:58:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:58:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+14:58:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:58:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+14:59:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+14:59:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=7
+
+14:59:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+14:59:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task&project=2
+
+14:59:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+14:59:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task&project=2
+
+14:59:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+14:59:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+14:59:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&bugID=4
+
+15:00:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&ID=3
+
+15:00:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&ID=2
+
+15:00:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&ID=3
+
+15:00:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=view&ID=4
+
+15:00:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:01:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:01:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:01:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:02:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:02:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:02:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:02:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:02:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:03:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:03:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:03:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:03:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:04:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:04:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:04:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:04:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:04:35 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:04:36 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:04:37 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:04:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:04:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:04:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:04:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:04:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:05:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:05:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:05:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=create&productID=1&moduleID=0
+
+15:05:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:05:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:06:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:07:27 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:10:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:10:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:10:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:10:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:10:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:10:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:10:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:10:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:11:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:11:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:11:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:11:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:11:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:14:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:14:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:15:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&id=7
+
+15:15:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:15:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:15:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:15:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:15:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=user&f=todo&account=productManager
+
+15:15:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:16:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:19:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:19:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:19:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:19:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:19:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:19:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=bug&f=browse
+
+15:20:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+15:20:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:20:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:20:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:20:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:21:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:21:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:21:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+15:22:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:22:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=story&f=view&storyID=8
+
+15:22:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:22:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:22:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+15:22:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:23:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+15:23:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=view&docID=1
+
+15:23:04 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+15:23:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+15:23:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+15:23:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:23:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:23:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:23:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:23:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:23:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:26:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:26:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:26:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:26:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:26:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:27:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:29:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:29:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:29:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:29:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+15:29:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:29:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:29:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:29:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+15:29:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+15:29:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:31:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+15:31:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:31:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:31:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:31:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=task&f=view&id=2
+
+15:31:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:31:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+15:31:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:33:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+15:33:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+15:33:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+15:33:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+15:33:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:33:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+15:33:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+15:33:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:34:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:34:18 Undefined variable: tasks in D:\kuaipan_koodo\LandowBug\app\module\my\view\blocktasks.html.php on line 8 when visiting /index.php?m=my&f=index
+
+15:34:18 Invalid argument supplied for foreach() in D:\kuaipan_koodo\LandowBug\app\module\my\view\blocktasks.html.php on line 8 when visiting /index.php?m=my&f=index
+
+15:34:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:34:29 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+15:34:29 Undefined variable: actions in D:\kuaipan_koodo\LandowBug\app\module\my\view\blockdynamic.html.php on line 8 when visiting /index.php?m=my&f=index
+
+15:34:29 Invalid argument supplied for foreach() in D:\kuaipan_koodo\LandowBug\app\module\my\view\blockdynamic.html.php on line 8 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Undefined property: stdClass::$objectName in D:\kuaipan_koodo\LandowBug\app\module\action\model.php on line 516 when visiting /index.php?m=my&f=index
+
+16:01:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:02:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:02:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+16:02:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:03:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:04:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:05:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:05:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+16:05:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:06:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+16:06:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=browse
+
+16:06:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+16:06:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:07:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+16:07:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=project&f=task
+
+16:07:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:08:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:19:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:19:51 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:19:52 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=product&f=browse
+
+16:19:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:19:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+16:19:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:19:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=browse
+
+16:20:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:20:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:20:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:20:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:21:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:21:53 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:22:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:22:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:28:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:28:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=dynamic
+
+16:28:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=user&f=todo&account=2
+
+16:28:18 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=doc&f=view&docID=1
+
+16:28:20 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:29:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:29:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=bug
+
+16:29:24 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=my&f=index
+
+16:29:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php?m=company&f=dynamic
+
+16:29:28 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:31:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+16:31:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=todo&account=tester1
+
+16:31:59 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+16:32:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=todo&account=productManager
+
+16:32:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=story&account=productManager
+
+16:32:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=task&account=productManager
+
+16:32:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=bug&account=productManager
+
+16:32:08 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:13 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=user&f=profile&account=productManager
+
+16:32:16 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:32:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:33:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:33:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:34:40 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+16:34:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:34:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+16:34:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:34:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=project&f=task
+
+16:34:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+16:34:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=create&productID=3&extra=moduleID=0
+
+16:34:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/theme/default/images/kindeditor/save.gif?m=my&f=index
+
+16:35:17 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+16:35:26 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:35:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=8
+
+16:35:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:36:33 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:39:23 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:39:32 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:40:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:46:31 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:46:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:46:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:47:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:47:22 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:47:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:48:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:48:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:14 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:19 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=8
+
+16:49:21 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:38 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:39 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=product&f=browse
+
+16:49:42 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+16:49:43 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+16:49:44 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+16:49:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+16:49:46 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+16:49:49 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+16:50:55 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+16:51:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=8
+
+16:51:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=8
+
+16:51:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+16:51:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+16:51:58 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+17:02:00 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+17:02:01 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=view&bugID=8
+
+17:02:02 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+17:02:03 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+17:03:05 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=dynamic
+
+17:03:07 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:03:09 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=company&f=browse
+
+17:03:10 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:03:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=bug&f=browse
+
+17:03:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:03:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:03:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:03:50 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:06:12 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:06:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:06:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:06:47 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=my&f=index
+
+17:06:48 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:07:41 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:07:45 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:07:54 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:08:11 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:08:15 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:08:30 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:09:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:10:06 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:10:56 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse&libID=product&module=0&productID=2
+
+17:10:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse
+
+17:10:57 Use of undefined constant php - assumed 'php' in D:\kuaipan_koodo\LandowBug\app\module\common\view\header.html.php on line 27 when visiting /index.php/my/?m=doc&f=browse

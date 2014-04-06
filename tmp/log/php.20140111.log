@@ -1,0 +1,10 @@
+
+12:10:04 ERROR: the control file D:\Code\ZenTao\module\uml\control.php not found. in D:\Code\ZenTao\framework\router.class.php on line 971, last called by D:\Code\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\Code\ZenTao\framework\router.class.php on line 1576 when visiting UML
+
+12:10:09 ERROR: the control file D:\Code\ZenTao\module\uml\control.php not found. in D:\Code\ZenTao\framework\router.class.php on line 971, last called by D:\Code\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\Code\ZenTao\framework\router.class.php on line 1576 when visiting UML
+
+16:19:05 Object of class stdClass could not be converted to string in D:\Code\ZenTao\module\custom\control.php on line 55 when visiting custom-set
+
+16:19:05 Object of class stdClass could not be converted to string in D:\Code\ZenTao\module\common\model.php on line 509 when visiting custom-set

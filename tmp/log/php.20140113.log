@@ -1,0 +1,147 @@
+
+16:21:52 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:21:52 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:21:52 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:21:52 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:21:52 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:21:52 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting my
+
+16:21:56 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:21:56 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:21:56 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:21:56 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:21:56 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:21:56 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:22:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:22:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:22:53 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:22:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:22:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:22:53 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:26:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:26:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:26:57 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:26:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:26:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:26:57 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:27:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:27:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:27:53 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:27:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:27:53 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:27:53 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:31:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:31:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:31:57 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:31:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:31:57 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:31:57 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:32:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:32:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:32:54 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:32:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:32:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:32:54 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:36:58 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:36:58 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:36:58 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:36:58 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:36:58 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:36:58 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:37:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:37:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:37:54 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:37:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:37:54 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:37:54 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting misc-ping
+
+16:40:27 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 718 when visiting 
+
+16:40:27 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 765 when visiting 
+
+16:40:27 session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 24 when visiting 
+
+16:40:27 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 35 when visiting 
+
+16:40:27 Cannot modify header information - headers already sent by (output started at D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php:2) in D:\kuaipan_koodo\LandowBug\ZenTao\module\common\model.php on line 36 when visiting 
+
+16:40:27 phpinfo() [function.phpinfo]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\kuaipan_koodo\LandowBug\ZenTao\www\index.php on line 2 when visiting my
+
+17:22:49 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/theme�ultimagesldnv\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/theme�ultimagesldnv-bg-1
+
+17:23:08 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/theme�ultimagesldnv\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/theme�ultimagesldnv-bg-1
+
+17:23:09 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/theme�ultimagesldnv\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/theme�ultimagesldnv-bg-1
+
+17:23:22 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/theme/default/images/ld/nv\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/theme/default/images/ld/nv-bg-1
+
+18:15:15 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\my/images/ld/logo\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting my/images/ld/logo
+
+18:22:42 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/iamges/ld/logo\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/iamges/ld/logo
+
+18:22:47 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/iamges/ld/logo\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/iamges/ld/logo
+
+18:23:58 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/iamges/ld/logo\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/iamges/ld/logo
+
+18:23:58 ERROR: the control file D:\kuaipan_koodo\LandowBug\ZenTao\module\theme/default/iamges/ld/logo\control.php not found. in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 971, last called by D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1061 through function setControlFile.
+ in D:\kuaipan_koodo\LandowBug\ZenTao\framework\router.class.php on line 1576 when visiting theme/default/iamges/ld/logo
